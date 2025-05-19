@@ -1,0 +1,7 @@
+# Redirects from what the browser requests to what we serve
+/sign-in/*            /sign-in        200
+/sign-up/*            /sign-up        200
+/dashboard/*          /dashboard      200
+/meetings/*           /meetings       200
+/personal-room/*      /personal-room  200
+/*                    /index.html     200 
